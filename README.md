@@ -48,3 +48,4 @@ https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-31
 - [2] Archana Singh, Rakesh Kumar, “Heart Disease Prediction Using Machine Learning Algorithms”, 2020 IEEE, International Conference on Electrical and Electronics Engineering (ICE3) 
 - [3] A. Sivasangari, Baddigam Jaya Krishna Reddy, Annamareddy Kiran, P. Ajitha,” Diagnosis of Liver Disease using Machine Learning Models” 2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC) 
 
+Project updated for GitHub commit tracking
